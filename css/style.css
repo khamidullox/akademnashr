@@ -1,0 +1,199 @@
+body {
+  box-sizing: border-box;
+  max-width: 100%;
+  padding: auto;
+}
+
+.site-header-content {
+  display: flex;
+  width: 1100px;
+  height: 59.18px;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+  max-width: 100%;
+  align-items: baseline;
+  margin-bottom: 50px;
+}
+.header-ul {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 20px;
+}
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+.otish {
+  margin-left: 20px;
+  width: 155px;
+  height: 39p;
+  padding: 12px, 24px, 12px, 24px;
+  border-radius: 4px;
+  background-color: #ff7500;
+  text-align: center;
+}
+.site-content {
+  width: 1440px;
+  height: 550px;
+  top: 97px;
+  background: #252420;
+  display: flex;
+  justify-content: space-around;
+}
+.Pythonda {
+  width: 339px;
+  height: 96px;
+  top: 43px;
+  color: white;
+  text-align: center;
+  font-family: Roboto Condensed;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0.5px;
+  text-align: left;
+}
+.Dasturlash {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: left;
+
+  width: 387px;
+  height: 96px;
+  top: 163px;
+  color: white;
+}
+.Buyurtma {
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #fff;
+  width: 152px;
+  height: 39px;
+  top: 291px;
+  padding: 12px, 24px, 12px, 24px;
+  border-radius: 4px;
+  background-color: #ff7500;
+  text-align: center;
+}
+.python-book-img {
+  width: 510px;
+  height: 510px;
+  top: 137px;
+  left: 760px;
+  border-radius: 8px;
+  margin-top: 100px;
+}
+.sidebare-content {
+  width: 1440px;
+  height: 700px;
+  top: 584px;
+}
+.h1-birinchi {
+  width: 435px;
+  height: 172px;
+  top: 821px;
+  left: 170px;
+  font-family: Roboto Condensed;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 86px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  margin-left: 150px;
+}
+.ustinliklar {
+  display: flex;
+  justify-content: space-evenly;
+  width: 1100px;
+  height: 245px;
+  top: 1065px;
+  left: 170px;
+  gap: 40px;
+  margin-left: 60px;
+}
+.lilar {
+  width: 340px;
+  height: 113px;
+  gap: 12px;
+}
+
+.content-footer {
+  width: 1100px;
+  height: 419px;
+  top: 1640px;
+  left: 170px;
+  border-radius: 12px;
+  background-color: black;
+  margin: 100px;
+}
+.content-footer-text {
+  margin-left: 80px;
+  color: #fff;
+  font-family: Roboto Condensed;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0.5px;
+  text-align: left;
+}
+content-footer-text-div {
+  width: 440px;
+  height: 108px;
+  top: 1824px;
+  left: 234px;
+  gap: 12px;
+  margin-left: 80px;
+}
+.content-footer-text1 {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  margin-left: 80px;
+
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  color: #fff;
+}
+.content-footer-flex {
+  display: flex;
+  justify-content: space-between;
+}
+.footer {
+  width: 1440px;
+  height: 507px;
+  top: 2219px;
+  background-color: #f8f8f8;
+}
+.footer-soci {
+  display: flex;
+  justify-content: space-between;
+  margin: 150px;
+}
+.footer-ul {
+  display: flex;
+  justify-content: space-around;
+}
+.hover:hover {
+  color: #ff7500;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
